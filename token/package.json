@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "@openzeppelin/contracts": "^4.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
     "@truffle/hdwallet-provider": "^1.2.3",
     "truffle-ledger-provider": "^1.0.3"
   },
