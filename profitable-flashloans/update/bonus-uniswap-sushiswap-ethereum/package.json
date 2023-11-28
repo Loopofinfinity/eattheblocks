@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@studydefi/money-legos": "^2.4.2",
-    "@truffle/hdwallet-provider": "^1.4.3",
+    "@truffle/hdwallet-provider": "^2.0.0",
     "@uniswap/sdk": "^2.0.5",
     "dotenv": "^8.6.0",
-    "web3": "^1.5.1"
+    "web3": "^4.0.1"
   },
   "engines": {
     "node": "v15.x"
