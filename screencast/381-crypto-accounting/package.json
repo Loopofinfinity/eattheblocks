@@ -14,8 +14,8 @@
     "coingecko-api-v3": "0.0.12",
     "dotenv": "^10.0.0",
     "ethereum-block-by-date": "^1.4.0",
-    "googleapis": "^39.2.0",
+    "googleapis": "^49.0.0",
     "moment": "^2.29.1",
-    "web3": "^1.4.0"
+    "web3": "^4.0.1"
   }
 }
