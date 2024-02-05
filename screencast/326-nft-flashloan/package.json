@@ -13,7 +13,7 @@
     "@openzeppelin/contracts": "^4.0.0",
     "@openzeppelin/contracts-upgradeable": "^4.0.0",
     "@openzeppelin/hardhat-upgrades": "^1.6.0",
-    "@tenderly/hardhat-tenderly": "^1.0.11",
+    "@tenderly/hardhat-tenderly": "^2.2.0",
     "dotenv": "^8.2.0"
   }
 }
