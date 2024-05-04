@@ -19,7 +19,7 @@ regex==2020.11.13
 requests==2.25.1
 six==1.15.0
 squarify==0.4.3
-tqdm==4.56.0
+tqdm==4.66.3
 update-checker==0.18.0
 urllib3==1.26.3
 websocket-client==0.57.0
