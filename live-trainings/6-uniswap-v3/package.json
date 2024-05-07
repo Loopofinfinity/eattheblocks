@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@uniswap/v3-core": "^1.0.0",
-    "@uniswap/v3-periphery": "^1.0.0",
+    "@uniswap/v3-periphery": "^1.4.4",
     "ethers": "^5.4.1",
     "to-uint-24-x": "^4.1.2"
   },
