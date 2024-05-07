@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "eth-block-tracker": "^4.4.1",
+    "eth-block-tracker": "^4.4.3",
     "ethjs-provider-http": "^0.1.6",
     "rxjs": "^6.5.2"
   }
