@@ -12,6 +12,6 @@
   "dependencies": {
     "eth-block-tracker": "^4.4.1",
     "ethjs-provider-http": "^0.1.6",
-    "rxjs": "^6.5.2"
+    "rxjs": "^6.6.7"
   }
 }
