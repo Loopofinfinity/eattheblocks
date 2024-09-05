@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethereumjs-util": "^6.0.0",
+    "ethereumjs-util": "^6.2.1",
     "merkle-tree-solidity": "^1.0.8"
   }
 }
