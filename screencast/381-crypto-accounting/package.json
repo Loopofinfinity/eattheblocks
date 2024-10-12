@@ -16,6 +16,6 @@
     "ethereum-block-by-date": "^1.4.0",
     "googleapis": "^39.2.0",
     "moment": "^2.29.1",
-    "web3": "^1.4.0"
+    "web3": "^4.2.0"
   }
 }
