@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "@eth-optimism/solc": "^0.7.6-alpha.1",
-    "@truffle/hdwallet-provider": "^1.4.1"
+    "@truffle/hdwallet-provider": "^2.1.15"
   }
 }
