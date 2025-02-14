@@ -2,7 +2,7 @@
   "dependencies": {
     "@uniswap/v3-core": "^1.0.0",
     "@uniswap/v3-periphery": "^1.0.0",
-    "ethers": "^5.4.1",
+    "ethers": "^6.0.0",
     "to-uint-24-x": "^4.1.2"
   },
   "devDependencies": {
