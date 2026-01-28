@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ganache-time-traveler": "^1.0.2"
+    "ganache-time-traveler": "^1.0.3"
   },
   "devDependencies": {
     "@openzeppelin/test-helpers": "^0.5.3"
